@@ -61,7 +61,7 @@ A rescue ratio of priority Pr where Pr = Pb / Pg , saved in a list
 
 A list of the names of the input images , arranges in descending order of their rescue ratio
 (Pr)
-## Exampple Use Case
+## Example Use Case
 
 For the Images given in the repository, it returns the following data:
 
@@ -74,11 +74,13 @@ The total priority of houses on the burnt grass (Pb) and the total priority of h
 A rescue ratio of priority Pr where Pr = Pb / Pg:
  [0.5, 1.3333333333333333, 2.5, 2.6666666666666665, 2.6666666666666665, 1.6, 2.0, 3.3333333333333335, 2.0, 0.8571428571428571, 1.3333333333333333]
  
-A list of the names of the input images , arranges in descending order of their rescue ratio:
+A list of the names of the input images , arranged in descending order of their rescue ratio:
  ['7.png', '3.png', '4.png', '2.png', '6.png', '8.png', '5.png', '1.png', '11.png', '10.png', '0.png']
 
 
 ## Documentation
+
+Refer to the documentation below:
 
 [Documentation](https://github.com/ScriptedLines/ForestFire_Rescue_Detector/blob/main/Documentation.docx)
 
