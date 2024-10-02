@@ -47,6 +47,8 @@ Red houses have a priority of 1
 ![Logo](https://i.ibb.co/5rPkW3R/Screenshot-2024-10-01-234705.png)
 
 We need to give output image in form
+
+
 ![Logo](https://i.ibb.co/4NtDmX9/Screenshot-2024-10-02-172845.png)
 
 
@@ -59,11 +61,6 @@ A rescue ratio of priority Pr where Pr = Pb / Pg , saved in a list
 
 A list of the names of the input images , arranges in descending order of their rescue ratio
 (Pr)
-## Running Tests
-
-
-
-
 ## Exampple Use Case
 
 For the Images given in the repository, it returns the following data:
