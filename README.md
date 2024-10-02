@@ -22,6 +22,11 @@ main_folder="....\\Images"
 To deploy this project:
 Ensure there are images in the imae folder, either use the default images or create you own!
 
+Also Ensure you got the latest version of Python installed, and also the modules:
+1) OpenCV
+2) Numpy
+3) os
+
 
 
 
